@@ -15,32 +15,16 @@
 ## About
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b9674fab-0072-467c-b8c9-3a44c636ba69/deploy-status)](https://app.netlify.com/sites/wizardly-knuth-b8a540/deploys)
 
-This project was based on Brevifolia. Brevifolia is minimalist blog starter to get you going using [Forestry](https://forestry.io/) with [Gatsby](https://www.gatsbyjs.org/). Check out the demo [here](https://brevifolia-gatsby-forestry.netlify.com/)
+This project was based oncd  Brevifolia. Brevifolia is minimalist blog starter to get you going using [Forestry](https://forestry.io/) with [Gatsby](https://www.gatsbyjs.org/). Check out the demo [here](https://brevifolia-gatsby-forestry.netlify.com/)
 
+#### Setting Up & Using This Template:
+Make sure you have the [Gatsby CLI](https://www.gatsbyjs.org/docs/quick-start/#install-the-gatsby-cli) installed.
 
-#### *Using the Gatsby CLI*
 In your terminal, navigate to where you would like this blog to live, then run 
-```bash 
-gatsby new [SITE_DIRECTORY_NAME] https://github.com/kendallstrautman/brevifolia-gatsby-forestry
-cd [SITE_DIRECTORY_NAME]
-yarn dev 
 ```
-#### *Set-up Locally*
-In your terminal, navigate to where you would like this blog to live, then run 
-```bash
-#clone the repo
-git clone git@github.com:kendallstrautman/brevifolia-gatsby-forestry.git
-
-#navigate to the directory
-cd brevifolia-gatsby-forestry
-
-#install dependencies & run dev server with yarn 
-yarn install
-yarn dev
-
-#or with npm 
-npm install
-npm run dev
+gatsby new gatsby-foresty-blog https://github.com/BlaineAndersonDev/forest.git
+cd gatsby-foresty-blog
+yarn dev 
 ```
 A new browser window should open with the dev server running or you can navigate to localhost:8000 
 
