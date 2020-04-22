@@ -11,12 +11,13 @@
 <h1 align="center">
   Gatsby Forest Blog
 </h1>
-<p align="center">A Static CMS Blog</p>
+<p align="center"></p>
 
 ## About
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b9674fab-0072-467c-b8c9-3a44c636ba69/deploy-status)](https://app.netlify.com/sites/wizardly-knuth-b8a540/deploys)
 
-This project is based on [Brevifolia](https://github.com/kendallstrautman/brevifolia-gatsby-forestry), the minimalist blog starter to get you going using [Forestry](https://forestry.io/) with [Gatsby](https://www.gatsbyjs.org/).
+Gatsby Forest Blog is a static CMS blog. This means that every post to the blog via forestry is actually a git commit!
+After posting an article, it takes only a minute or two for the changes to go live and the update to be pushed into the github repo.
 
 #### Setting Up & Using This Template:
 Make sure you have the [Gatsby CLI](https://www.gatsbyjs.org/docs/quick-start/#install-the-gatsby-cli) installed.
@@ -28,6 +29,9 @@ cd gatsby-foresty-blog
 yarn dev 
 ```
 A new browser window should open with the dev server running or you can navigate to localhost:8000 
+
+### Credit:
+This project is based on [Brevifolia](https://github.com/kendallstrautman/brevifolia-gatsby-forestry), the minimalist blog starter to get you going using [Forestry](https://forestry.io/) with [Gatsby](https://www.gatsbyjs.org/).
 
 # Gatsby Basics Review:
 ### Gatsby Tutorial - Notes on section 1 - Building Blocks
