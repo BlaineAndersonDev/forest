@@ -13,7 +13,8 @@
 </h1>
 
 ## About
-Check out this project on Netlify: [![Netlify Status](https://api.netlify.com/api/v1/badges/b9674fab-0072-467c-b8c9-3a44c636ba69/deploy-status)](https://app.netlify.com/sites/wizardly-knuth-b8a540/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9674fab-0072-467c-b8c9-3a44c636ba69/deploy-status)](https://app.netlify.com/sites/wizardly-knuth-b8a540/deploys)
+
 This project was based on Brevifolia. Brevifolia is minimalist blog starter to get you going using [Forestry](https://forestry.io/) with [Gatsby](https://www.gatsbyjs.org/). Check out the demo [here](https://brevifolia-gatsby-forestry.netlify.com/)
 
 
