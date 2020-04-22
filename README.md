@@ -24,7 +24,7 @@ After posting an article, it takes only a minute or two for the changes to go li
 Make sure you have the [Gatsby CLI](https://www.gatsbyjs.org/docs/quick-start/#install-the-gatsby-cli) installed.
 
 In your terminal, navigate to where you would like this blog to live, then run 
-```
+```bash
 gatsby new gatsby-foresty-blog https://github.com/BlaineAndersonDev/forest.git
 cd gatsby-foresty-blog
 yarn dev 
